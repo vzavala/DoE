@@ -1,4 +1,4 @@
-## Design of Experiments
+## DoE: Design of Experiments
 
 Slides and Python notebooks of the Experimental Design Short Course by Victor M. Zavala (University of Wisconsin-Madison). This material supports the book **"Statistics for Chemical Engineers: From Data to Models to Decisions"** by Zavala, V. M. (2025), Cambridge University Press,©, [Official Cambridge Website](https://www.cambridge.org/highereducation/books/statistics-for-chemical-engineers/A8DB49C10B02BADA637D13FC02CD62A7#overview)
 
