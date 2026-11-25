@@ -8,6 +8,6 @@ Slides and Python notebooks of the Experimental Design Short Course by Victor M.
 
 - **Python Folder**: Contains Python notebooks (and data) for the examples in the slides. They open in Google Colab.
 
-- **DoE Lab**: Interactive page to try the techniques, at [vzavala.github.io/DoE](https://vzavala.github.io/DoE/) (source in `docs`).
+- **DoE Lab**: Interactive page to try the techniques, at [vzavala.github.io/DoE](https://vzavala.github.io/DoE/) (source in the `gh-pages` branch).
 
 You can find *more information* about the book at [Author Website](https://zavalab.engr.wisc.edu/publications/statsbook)
